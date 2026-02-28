@@ -148,16 +148,6 @@ Model accuracy and variance
 
 
 
-🚀 Installation & Usage
-1️⃣ Clone Repository
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-2️⃣ Install Dependencies
-pip install numpy pandas matplotlib seaborn scikit-learn
-3️⃣ Run Notebook
-
-
-
 📌 Key Insights
 
 Feature scaling significantly improves regression performance
